@@ -1,2 +1,39 @@
-print(len(['Acanthaceae', 'Achariaceae', 'Achatocarpaceae', 'Acoraceae', 'Actinidiaceae', 'Adoxaceae', 'Aextoxicaceae', 'Aizoaceae', 'Akaniaceae', 'Alismataceae', 'Alseuosmiaceae', 'Alstroemeriaceae', 'Altingiaceae', 'Amaranthaceae', 'Amaryllidaceae', 'Amborellaceae', 'Anacampserotaceae', 'Anacardiaceae', 'Anarthriaceae', 'Ancistrocladaceae', 'Anisophylleaceae', 'Annonaceae', 'Aphanopetalaceae', 'Aphloiaceae', 'Apiaceae', 'Apocynaceae', 'Apodanthaceae', 'Aponogetonaceae', 'Aquifoliaceae', 'Araceae', 'Araliaceae', 'Arecaceae', 'Argophyllaceae', 'Aristolochiaceae', 'Asparagaceae', 'Asteliaceae', 'Asteropeiaceae', 'Atherospermataceae', 'Austrobaileyaceae', 'Balanopaceae', 'Balanophoraceae', 'Balsaminaceae', 'Barbeuiaceae', 'Barbeyaceae', 'Basellaceae', 'Bataceae', 'Begoniaceae', 'Berberidaceae', 'Berberidopsidaceae', 'Betulaceae', 'Biebersteiniaceae', 'Bignoniaceae', 'Bixaceae', 'Blandfordiaceae', 'Bonnetiaceae', 'Boraginaceae', 'Boryaceae', 'Brassicaceae', 'Bromeliaceae', 'Brunelliaceae', 'Bruniaceae', 'Burmanniaceae', 'Burseraceae', 'Butomaceae', 'Buxaceae', 'Byblidaceae', 'Cabombaceae', 'Cactaceae', 'Calceolariaceae', 'Calophyllaceae', 'Calycanthaceae', 'Calyceraceae', 'Campanulaceae', 'Campynemataceae', 'Canellaceae', 'Cannabaceae', 'Cannaceae', 'Capparaceae', 'Caprifoliaceae', 'Cardiopteridaceae', 'Caricaceae', 'Carlemanniaceae', 'Caryocaraceae', 'Caryophyllaceae', 'Casuarinaceae', 'Celastraceae', 'Centrolepidaceae', 'Centroplacaceae', 'Cephalotaceae', 'Ceratophyllaceae', 'Cercidiphyllaceae', 'Chloranthaceae', 'Chrysobalanaceae', 'Circaeasteraceae', 'Cistaceae', 'Cleomaceae', 'Clethraceae', 'Clusiaceae', 'Colchicaceae', 'Columelliaceae', 'Combretaceae', 'Commelinaceae', 'Compositae', 'Connaraceae', 'Convolvulaceae', 'Coriariaceae', 'Cornaceae', 'Corsiaceae', 'Corynocarpaceae', 'Costaceae', 'Crassulaceae', 'Crossosomataceae', 'Ctenolophonaceae', 'Cucurbitaceae', 'Cunoniaceae', 'Curtisiaceae', 'Cyclanthaceae', 'Cymodoceaceae', 'Cynomoriaceae', 'Cyperaceae', 'Cyrillaceae', 'Cytinaceae', 'Daphniphyllaceae', 'Dasypogonaceae', 'Datiscaceae', 'Degeneriaceae', 'Diapensiaceae', 'Dichapetalaceae', 'Didiereaceae', 'Dilleniaceae', 'Dioncophyllaceae', 'Dioscoreaceae', 'Dipentodontaceae', 'Dipterocarpaceae', 'Dirachmaceae', 'Doryanthaceae', 'Droseraceae', 'Drosophyllaceae', 'Ebenaceae', 'Ecdeiocoleaceae', 'Elaeagnaceae', 'Elaeocarpaceae', 'Elatinaceae', 'Emblingiaceae', 'Ericaceae', 'Eriocaulaceae', 'Erythroxylaceae', 'Escalloniaceae', 'Eucommiaceae', 'Euphorbiaceae', 'Euphroniaceae', 'Eupomatiaceae', 'Eupteleaceae', 'Fagaceae', 'Flacourtiaceae', 'Flagellariaceae', 'Fouquieriaceae', 'Frankeniaceae', 'Garryaceae', 'Geissolomataceae', 'Gelsemiaceae', 'Gentianaceae', 'Geraniaceae', 'Gerrardinaceae', 'Gesneriaceae', 'Gisekiaceae', 'Gomortegaceae', 'Goodeniaceae', 'Goupiaceae', 'Grossulariaceae', 'Grubbiaceae', 'Guamatelaceae', 'Gunneraceae', 'Gyrostemonaceae', 'Haemodoraceae', 'Halophytaceae', 'Haloragaceae', 'Hamamelidaceae', 'Hanguanaceae', 'Haptanthaceae', 'Heliconiaceae', 'Helwingiaceae', 'Hernandiaceae', 'Himantandraceae', 'Huaceae', 'Humiriaceae', 'Hydatellaceae', 'Hydnoraceae', 'Hydrangeaceae', 'Hydrocharitaceae', 'Hydroleaceae', 'Hydrostachyaceae', 'Hypericaceae', 'Hypoxidaceae', 'Icacinaceae', 'Iridaceae', 'Irvingiaceae', 'Iteaceae', 'Ixioliriaceae', 'Ixonanthaceae', 'Joinvilleaceae', 'Juglandaceae', 'Juncaceae', 'Juncaginaceae',
-           'Kirkiaceae', 'Koeberliniaceae', 'Krameriaceae', 'Lacistemataceae', 'Lactoridaceae', 'Lamiaceae', 'Lanariaceae', 'Lardizabalaceae', 'Lauraceae', 'Lecythidaceae', 'Leguminosae', 'Lentibulariaceae', 'Lepidobotryaceae', 'Liliaceae', 'Limeaceae', 'Limnanthaceae', 'Linaceae', 'Linderniaceae', 'Loasaceae', 'Loganiaceae', 'Lophiocarpaceae', 'Lophopyxidaceae', 'Loranthaceae', 'Lowiaceae', 'Lythraceae', 'Magnoliaceae', 'Malpighiaceae', 'Malvaceae', 'Marantaceae', 'Marcgraviaceae', 'Martyniaceae', 'Mayacaceae', 'Melanthiaceae', 'Melastomataceae', 'Meliaceae', 'Melianthaceae', 'Menispermaceae', 'Menyanthaceae', 'Metteniusaceae', 'Misodendraceae', 'Mitrastemonaceae', 'Molluginaceae', 'Monimiaceae', 'Montiaceae', 'Montiniaceae', 'Moraceae', 'Moringaceae', 'Muntingiaceae', 'Musaceae', 'Myodocarpaceae', 'Myricaceae', 'Myristicaceae', 'Myrothamnaceae', 'Myrtaceae', 'Nartheciaceae', 'Nelumbonaceae', 'Nepenthaceae', 'Neuradaceae', 'Nitrariaceae', 'Nothofagaceae', 'Nyctaginaceae', 'Nymphaeaceae', 'Ochnaceae', 'Olacaceae', 'Oleaceae', 'Onagraceae', 'Oncothecaceae', 'Opiliaceae', 'Orchidaceae', 'Orobanchaceae', 'Oxalidaceae', 'Paeoniaceae', 'Pandaceae', 'Pandanaceae', 'Papaveraceae', 'Paracryphiaceae', 'Passifloraceae', 'Paulowniaceae', 'Pedaliaceae', 'Penaeaceae', 'Pennantiaceae', 'Pentadiplandraceae', 'Pentaphragmataceae', 'Pentaphylacaceae', 'Penthoraceae', 'Peraceae', 'Peridiscaceae', 'Petenaeaceae', 'Petermanniaceae', 'Petrosaviaceae', 'Phellinaceae', 'Philesiaceae', 'Philydraceae', 'Phrymaceae', 'Phyllanthaceae', 'Phyllonomaceae', 'Physenaceae', 'Phytolaccaceae', 'Picramniaceae', 'Picrodendraceae', 'Piperaceae', 'Pittosporaceae', 'Plantaginaceae', 'Platanaceae', 'Plocospermataceae', 'Plumbaginaceae', 'Poaceae', 'Podostemaceae', 'Polemoniaceae', 'Polygalaceae', 'Polygonaceae', 'Pontederiaceae', 'Portulacaceae', 'Posidoniaceae', 'Potamogetonaceae', 'Primulaceae', 'Proteaceae', 'Putranjivaceae', 'Quillajaceae', 'Rafflesiaceae', 'Ranunculaceae', 'Rapateaceae', 'Resedaceae', 'Restionaceae', 'Rhabdodendraceae', 'Rhamnaceae', 'Rhipogonaceae', 'Rhizophoraceae', 'Roridulaceae', 'Rosaceae', 'Rousseaceae', 'Rubiaceae', 'Ruppiaceae', 'Rutaceae', 'Sabiaceae', 'Salicaceae', 'Salvadoraceae', 'Santalaceae', 'Sapindaceae', 'Sapotaceae', 'Sarcobataceae', 'Sarcolaenaceae', 'Sarraceniaceae', 'Saururaceae', 'Saxifragaceae', 'Scheuchzeriaceae', 'Schisandraceae', 'Schlegeliaceae', 'Schoepfiaceae', 'Scrophulariaceae', 'Setchellanthaceae', 'Simaroubaceae', 'Simmondsiaceae', 'Siparunaceae', 'Sladeniaceae', 'Smilacaceae', 'Solanaceae', 'Sphaerosepalaceae', 'Sphenocleaceae', 'Stachyuraceae', 'Staphyleaceae', 'Stegnospermataceae', 'Stemonaceae', 'Stemonuraceae', 'Stilbaceae', 'Strasburgeriaceae', 'Strelitziaceae', 'Stylidiaceae', 'Styracaceae', 'Surianaceae', 'Symplocaceae', 'Talinaceae', 'Tamaricaceae', 'Tapisciaceae', 'Tecophilaeaceae', 'Tetrachondraceae', 'Tetramelaceae', 'Tetrameristaceae', 'Theaceae', 'Thomandersiaceae', 'Thurniaceae', 'Thymelaeaceae', 'Ticodendraceae', 'Tofieldiaceae', 'Torricelliaceae', 'Tovariaceae', 'Trigoniaceae', 'Trimeniaceae', 'Triuridaceae', 'Trochodendraceae', 'Tropaeolaceae', 'Typhaceae', 'Ulmaceae', 'Urticaceae', 'Vahliaceae', 'Velloziaceae', 'Verbenaceae', 'Violaceae', 'Vitaceae', 'Vivianiaceae', 'Vochysiaceae', 'Winteraceae', 'Xanthorrhoeaceae', 'Xeronemataceae', 'Xyridaceae', 'Zingiberaceae', 'Zosteraceae', 'Zygophyllaceae']))
+from PIL import Image, ImageDraw
+
+use_luminosity = True
+
+dim = (1920,1080)
+
+img = Image.new('RGB', dim)
+draw = ImageDraw.Draw(img)
+
+xstart = -.776707
+ystart = -.134663
+
+a = []
+
+xd = 1.6 / 8192 / dim[0]
+yd = 0.9 / 8192 / dim[1]
+
+for x in range(dim[0]):
+  for y in range(dim[1]):
+    z = d = complex(xstart + x*xd, ystart + y*yd)
+    c = 0
+    while abs(z) < 2 and c < 5000:
+      z = z*z + d
+      c += 1
+    a += [(c, -abs(z), x, y)]
+
+a = a[1:]
+a.sort(reverse = True)
+
+t = [(i>>16, 255&i>>8, 255&i) for i in range(1, dim[0]*dim[1])]
+if use_luminosity:
+  t.sort(key = lambda c: c[0]*3 + c[1]*10 + c[2], reverse = True)
+
+r = 0
+for c,d,x,y in a:
+  draw.point((x,y), t[r])
+  r += 1
+
+img.save('sla.png')
