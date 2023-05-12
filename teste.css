@@ -1,0 +1,8 @@
+#forgot_pswd:focus {
+  text-decoration: underline;
+}
+
+#submit:focus {
+  background-color: #718af0;
+  color: red;
+}
